@@ -1,0 +1,3 @@
+Run the below command in terminal after this folder location
+
+streamlit run app.py
