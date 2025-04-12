@@ -12,8 +12,6 @@
 - Explore relationships between words using pre-trained embeddings.
 - User-friendly interface powered by Streamlit.
 
-## Installation
+## Click the below link to view the real time of my project
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Mrinnovater/Reuters_word_explorer.git
+https://mrinnovaterreuterswordexplorer.streamlit.app/
